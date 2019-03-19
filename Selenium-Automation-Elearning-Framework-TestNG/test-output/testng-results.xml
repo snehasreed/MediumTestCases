@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40220" started-at="2019-03-18T11:14:35Z" finished-at="2019-03-18T11:15:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40220" started-at="2019-03-18T11:14:35Z" finished-at="2019-03-18T11:15:15Z">
+      <class name="com.training.sanity.tests.CYTC_042_PaymenttoOther_Member">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.sanity.tests.CYTC_042_PaymenttoOther_Member@5622fdf]" name="setUpBeforeClass" is-config="true" duration-ms="19" started-at="2019-03-18T11:14:35Z" finished-at="2019-03-18T11:14:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method status="PASS" signature="set()[pri:0, instance:com.training.sanity.tests.CYTC_042_PaymenttoOther_Member@5622fdf]" name="set" is-config="true" duration-ms="6995" started-at="2019-03-18T11:14:35Z" finished-at="2019-03-18T11:14:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set -->
+        <test-method status="PASS" signature="Validate_View_Member_Payment()[pri:0, instance:com.training.sanity.tests.CYTC_042_PaymenttoOther_Member@5622fdf]" name="Validate_View_Member_Payment" duration-ms="30954" started-at="2019-03-18T11:14:42Z" finished-at="2019-03-18T11:15:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_View_Member_Payment -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.training.sanity.tests.CYTC_042_PaymenttoOther_Member@5622fdf]" name="tearDown" is-config="true" duration-ms="2217" started-at="2019-03-18T11:15:13Z" finished-at="2019-03-18T11:15:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.training.sanity.tests.CYTC_042_PaymenttoOther_Member -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
