@@ -59,7 +59,7 @@ public class CYTC_045_Settings {
 		CytcPom_045.sendUserName("admin"); 
 		System.out.println("Login Name is entered");
 
-		CytcPom_045.sendPassword("123457");
+		CytcPom_045.sendPassword("123456");
 		System.out.println("Password is entered");
 
 		Thread.sleep(1000);
@@ -121,7 +121,7 @@ public class CYTC_045_Settings {
 		CytcPom_045.sendMemberUserName1("snehasree");
 		System.out.println("Member Login Name is entered");
 
-		CytcPom_045.sendMemberPassword("123456");
+		CytcPom_045.sendMemberPassword("123457");
 		System.out.println("Member Password is entered");
 
 		Thread.sleep(1000);
